@@ -1431,6 +1431,10 @@ h6,
 #menu-2a .close-icon::after {
   background-color: #000000;
 }
+#slider2-61 .mbr-section-title,
+#slider2-61 .mbr-section-lead {
+  color: #fff;
+}
 #menu-2c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1698,6 +1702,10 @@ h6,
 #menu-2k .close-icon::before,
 #menu-2k .close-icon::after {
   background-color: #000000;
+}
+#slider2-6d .mbr-section-title,
+#slider2-6d .mbr-section-lead {
+  color: #fff;
 }
 #menu-2m .hide-buttons .nav-btn {
   display: none !important;

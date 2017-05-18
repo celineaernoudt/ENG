@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "2014.html",
     "name": "My Site EN",
     "theme": {
       "name": "mobirise3",
@@ -22,11 +22,13 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 214,
+    "uniqCompNum": 234,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99057923-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -2358,7 +2360,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-5m",
+          "_anchor": "image2-6g",
           "_params": {
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -2368,7 +2370,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/image1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/didnttheytellyou1-1400x2100.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2513,34 +2515,6 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-2s",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/web-kgahetzeggenwalter-1400x2100.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
           "_anchor": "image2-5n",
           "_params": {
             "paddingTop": 4,
@@ -2580,7 +2554,35 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>ZEEP</b></p><p><i>sculpture / performance with Tim Choin</i></p><p><i>\"Le savon\" by Francis Ponge read by Irma Emmery</i></p><p>(2016)</p><p><br></p><p>During the performance you could see us, in our overalls, cutting and moulding the angular block into the general shape of soap. Mean- while, surrounded by smoke, you could listen to fragments of “Le savon”, a book by Francis Ponge.\n</p><p>The soap currently measures ca. 145 x 40 x 80 centimeters and weighs approximatly 350 kilo- gram.\n</p><p><br></p><p>Soap is a magic stone!\n</p><p>“A kind of stone, but a species that in nature doesn’t roll itself: it slips through your fingers and rather dissolves before your eyes, than by letting it wallow by the water.\nThen the game also consists of this, to grab it between your fin- gers and to provoke it with the right amount of water, in order to bring about a bulky, shiny reaction ...\nWhen we, on the other hand, lea-ve it in the water, it perishes from confusion.”\n</p><p>(Translated fragment from ‘Le savon’ by Francis Ponge)</p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>ZEEP</b></p><p><i>sculpture / performance with Tim Choin</i></p><p><i>\"Le savon\" by Francis Ponge read by Irma Emmery</i></p><p>(2016)</p><p><br></p><p>During the performance you could see us, in our overalls, cutting and moulding the angular block into the general shape of soap. Meanwhile, surrounded by smoke, you could listen to fragments of “Le savon”, a book by Francis Ponge.\n</p><p>The soap currently measures ca. 145 x 40 x 80 centimeters and weighs approximatly 350 kilogram.\n</p><p><br></p><p>Soap is a magic stone!\n</p><p>“A kind of stone, but a species that in nature doesn’t roll itself: it slips through your fingers and rather dissolves before your eyes, than by letting it wallow by the water.\nThen the game also consists of this, to grab it between your fin- gers and to provoke it with the right amount of water, in order to bring about a bulky, shiny reaction ...\nWhen we, on the other hand, leave it in the water, it perishes from confusion.”\n</p><p>(Translated fragment from ‘Le savon’ by Francis Ponge)</p><p><br></p><p><br></p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6h",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-zeep1-1400x787.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_styles": {
@@ -2702,8 +2704,12 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/web-zeep2-1400x787.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -2901,7 +2907,7 @@
           "_name": "slider3",
           "_params": {
             "autoplay": true,
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "timeout": 5,
             "slides": [
@@ -3008,11 +3014,11 @@
                 "image": "@PROJECT_PATH@/assets/images/web-plethora-in-mountain-scene-2-2000x1464.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "",
-                "showText": true,
+                "showText": false,
                 "text": "",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
@@ -3020,7 +3026,7 @@
             ],
             "fullScreen": false,
             "bgColor": "#fff",
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "slider3-5x",
           "articleLayout": false
@@ -3045,7 +3051,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Bye Bye Infinito</b></p><p><i>videoperfomance / videoinstallation</i></p><p>(2016)</p><p><br></p><p>During this videoperformance you can see me descending an in- clined green surface. The frame is constantly being zoomed out. When I reach the bottom, there is already another me walking towards the bottom. And so forth.\n</p><p><br></p><p>This work can be seen as a fol- low-up of Framing an inartificial green key and Full carpet framework, but deviates by time expelling the yardstick. That is, myself and an equal frame as a yardstick disappearing by a vertigoish effect. This time post-production points out the malleability.&nbsp;</p><p><br></p>"
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Bye Bye Infinito</b></p><p><i>videoperfomance / videoinstallation</i></p><p>(2016)</p><p><br></p><p>During this videoperformance you can see me descending an inclined green surface. The frame is constantly being zoomed out. When I reach the bottom, there is already another me walking towards the bottom. And so forth.\n</p><p><br></p><p>This work can be seen as a follow-up of Framing an inartificial green key and Full carpet framework, but deviates by time expelling the yardstick. That is, myself and an equal frame as a yardstick disappearing by a vertigoish effect. This time post-production points out the malleability.&nbsp;</p><p><br></p>"
         },
         {
           "_styles": {
@@ -3167,14 +3173,107 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/web-byebyeinfinito4-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5y",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-byebyeinfinito5-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-byebyeinfinito1-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-byebyeinfinito2-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/web-byebyeinfinito3-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider3-5z",
+          "articleLayout": false
         }
       ]
     },
@@ -3318,8 +3417,40 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/web-growsomeballs2-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-60",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-growsomeballs-1400x932.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -3469,14 +3600,124 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/fcf7-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/fcf1-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/fcf2-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/fcf3-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/fcf4-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/fcf5-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/fcf6-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider2-61"
         }
       ]
     },
@@ -3620,8 +3861,96 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/web-ravioliparty-1400x1980.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-63",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-ravioliparty2-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-64",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-ravioli2-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-65",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-ravioli4-1400x1050.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -4094,8 +4423,124 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/web-vogel1-1400x1868.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-69",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-vogel2-1400x1866.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6a",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-vogel3-1400x1778.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6b",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-vogel4-1400x1865.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6c",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-vogel5-1400x1865.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -4231,28 +4676,110 @@
           "text": "Copyright (c) 2017 Celine Aernoudt."
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-3e",
+          "_name": "slider2",
           "_params": {
+            "autoplay": true,
+            "timeout": 5,
             "paddingTop": 4,
             "paddingBottom": 4,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-sclg1-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-suddencracklinegestures2-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-suddencracklinegestures3-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-suddencracklinegestures4-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-suddencracklinegestures5-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/web-suddencracklinegestures7-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
             "bgColor": "#fff",
-            "showText": true
+            "showBullets": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "_anchor": "slider2-6d"
         }
       ]
     },
@@ -4396,8 +4923,12 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/web-roermeniet1-1400x1867.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -4536,25 +5067,90 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-3i",
+          "_name": "slider3",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-untitled1-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-untitled2-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-untitled3-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-untitled4-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/web-untitled6-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
             "bgColor": "#fff",
-            "showText": true
+            "showBullets": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "_anchor": "slider3-6e",
+          "articleLayout": false
         }
       ]
     },
@@ -4698,8 +5294,40 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/web-aantrede1-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6f",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-aantrede2-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -4839,6 +5467,62 @@
             "Theme"
           ],
           "_name": "image2",
+          "_anchor": "image2-66",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-framing-1-1400x787.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-68",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/web-framingofaninartificialgreenkey-1400x787.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
           "_anchor": "image2-3a",
           "_params": {
             "paddingTop": 4,
@@ -4849,8 +5533,12 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "src": "@PROJECT_PATH@/assets/images/web-framing-1400x787.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
@@ -4984,7 +5672,7 @@
           "_anchor": "msg-box5-4k",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "4",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -5007,7 +5695,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x4251.jpg",
+              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x4250.jpg",
               "link": "suddencracklinegestures.html",
               "alt": "",
               "title": "",
@@ -5065,7 +5753,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x4192.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x4191.jpg",
               "link": "roer-me-niet.html",
               "alt": "",
               "title": "",
@@ -5101,7 +5789,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -5123,7 +5811,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x4193.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x4192.jpg",
               "link": "untitled.html",
               "alt": "",
               "title": "",
@@ -5275,7 +5963,7 @@
           "_anchor": "msg-box5-4o",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "4",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -5298,7 +5986,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4194.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4193.jpg",
               "link": "fullcarpetframework.html",
               "alt": "",
               "title": "",
@@ -5356,7 +6044,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4195.jpg",
+              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4194.jpg",
               "link": "raviolifeestmetsterren.html",
               "alt": "",
               "title": "",
@@ -5414,7 +6102,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x4266.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x4265.jpg",
               "link": "3398.html",
               "alt": "",
               "title": "",
@@ -5472,7 +6160,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x4197.jpg",
+              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x4196.jpg",
               "link": "Framing of an inartificial green key.html",
               "alt": "",
               "title": "",
@@ -5508,7 +6196,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -5530,7 +6218,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x4198.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x4197.jpg",
               "link": "vogelspotten.html",
               "alt": "",
               "title": "",
@@ -5678,7 +6366,7 @@
           "_anchor": "msg-box5-4t",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "4",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -5701,7 +6389,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x4199.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x4198.jpg",
               "link": "didnttheytellyou?.html",
               "alt": "",
               "title": "",
@@ -5762,7 +6450,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x41910.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x4199.jpg",
               "link": "ZEEP#2.html",
               "alt": "",
               "title": "",
@@ -5820,7 +6508,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41911.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41910.jpg",
               "link": "ZEEP.html",
               "alt": "",
               "title": "",
@@ -5878,7 +6566,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41911.jpg",
               "link": "Aantrede.html",
               "alt": "",
               "title": "",
@@ -5936,7 +6624,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41913.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41912.jpg",
               "link": "plethorainmountainscene.html",
               "alt": "",
               "title": "",
@@ -5994,7 +6682,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41914.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41913.jpg",
               "link": "byebyeinfinito.html",
               "alt": "",
               "title": "",
@@ -6031,7 +6719,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -6053,7 +6741,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41914.jpg",
               "link": "growsomeballs.html",
               "alt": "",
               "title": "",
@@ -6201,7 +6889,7 @@
           "_anchor": "msg-box5-4h",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "4",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -6224,7 +6912,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41916.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41915.jpg",
               "link": "difficultbutallyours.html",
               "alt": "",
               "title": "",
@@ -6282,7 +6970,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41917.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41916.jpg",
               "link": "ypsilonely.html",
               "alt": "",
               "title": "",
@@ -6318,7 +7006,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -6340,7 +7028,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41918.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41917.jpg",
               "link": "kgahetzeggenwalter.html",
               "alt": "",
               "title": "",
@@ -6491,8 +7179,8 @@
           "_anchor": "msg-box5-50",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "4",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -6514,7 +7202,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41913.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41912.jpg",
               "link": "plethorainmountainscene.html",
               "alt": "",
               "title": "",
@@ -6572,7 +7260,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x4266.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x4265.jpg",
               "link": "3398.html",
               "alt": "",
               "title": "",
@@ -6608,7 +7296,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -6630,7 +7318,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x4193.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x4192.jpg",
               "link": "untitled.html",
               "alt": "",
               "title": "",
@@ -6781,7 +7469,7 @@
           "_anchor": "msg-box5-53",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "4",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -6804,7 +7492,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41914.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41913.jpg",
               "link": "byebyeinfinito.html",
               "alt": "",
               "title": "",
@@ -6866,7 +7554,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4194.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4193.jpg",
               "link": "fullcarpetframework.html",
               "alt": "",
               "title": "",
@@ -6902,7 +7590,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -6924,7 +7612,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x4197.jpg",
+              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x4196.jpg",
               "link": "Framing of an inartificial green key.html",
               "alt": "",
               "title": "",
@@ -7075,7 +7763,7 @@
           "_anchor": "msg-box5-56",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "4",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -7098,7 +7786,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41914.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41913.jpg",
               "link": "byebyeinfinito.html",
               "alt": "",
               "title": "",
@@ -7138,7 +7826,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -7160,7 +7848,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4194.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4193.jpg",
               "link": "fullcarpetframework.html",
               "alt": "",
               "title": "",
@@ -7311,8 +7999,8 @@
           "_anchor": "msg-box5-58",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -7334,7 +8022,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4195.jpg",
+              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4194.jpg",
               "link": "raviolifeestmetsterren.html",
               "alt": "",
               "title": "",
@@ -7485,7 +8173,7 @@
           "_anchor": "msg-box5-59",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "4",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -7508,7 +8196,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41917.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41916.jpg",
               "link": "ypsilonely.html",
               "alt": "",
               "title": "",
@@ -7566,7 +8254,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41918.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41917.jpg",
               "link": "kgahetzeggenwalter.html",
               "alt": "",
               "title": "",
@@ -7624,7 +8312,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x4199.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x4198.jpg",
               "link": "didnttheytellyou?.html",
               "alt": "",
               "title": "",
@@ -7682,7 +8370,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41912.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41911.jpg",
               "link": "Aantrede.html",
               "alt": "",
               "title": "",
@@ -7741,7 +8429,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41915.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41914.jpg",
               "link": "growsomeballs.html",
               "alt": "",
               "title": "",
@@ -7777,7 +8465,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -7799,7 +8487,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x4192.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x4191.jpg",
               "link": "roer-me-niet.html",
               "alt": "",
               "title": "",
@@ -7950,8 +8638,8 @@
           "_anchor": "msg-box5-5f",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -7973,7 +8661,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x4198.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x4197.jpg",
               "link": "vogelspotten.html",
               "alt": "",
               "title": "",
@@ -8124,8 +8812,8 @@
           "_anchor": "msg-box5-5g",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -8147,7 +8835,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41916.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41915.jpg",
               "link": "difficultbutallyours.html",
               "alt": "",
               "title": "",
@@ -8298,8 +8986,8 @@
           "_anchor": "msg-box5-5h",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "4",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -8321,7 +9009,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41916.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41915.jpg",
               "link": "difficultbutallyours.html",
               "alt": "",
               "title": "",
@@ -8382,7 +9070,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x41910.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x4199.jpg",
               "link": "ZEEP#2.html",
               "alt": "",
               "title": "",
@@ -8418,7 +9106,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -8440,7 +9128,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4195.jpg",
+              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4194.jpg",
               "link": "raviolifeestmetsterren.html",
               "alt": "",
               "title": "",
@@ -8591,7 +9279,7 @@
           "_anchor": "msg-box5-5k",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "4",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -8614,7 +9302,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41911.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41910.jpg",
               "link": "ZEEP.html",
               "alt": "",
               "title": "",
@@ -8650,7 +9338,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -8672,7 +9360,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x4251.jpg",
+              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x4250.jpg",
               "link": "suddencracklinegestures.html",
               "alt": "",
               "title": "",
