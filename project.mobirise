@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sculpture.html",
+    "currentPage": "index.html",
     "name": "My Site EN",
     "theme": {
       "name": "mobirise3",
@@ -2087,13 +2087,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
           "_anchor": "content1-17",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>\n</b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>‘k Ga het zeggen, Walter\n</b></p><p><i><a href=\"sculpture.html\" class=\"text-black\">sculpture</a></i></p><p> (<a href=\"2017.html\" class=\"text-black\">2017</a>)</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A little wheel that turns around the middle point of the waiting logo of Apple devices. The pins are set in a way that the flipper al- ways points out at two colors.&nbsp;</span><br></p><p><br></p><p>In Flanders we used to have a TV program, named “Rad van For- tuin”(”Wheel of Fortune”), where the candidates had to guess a word based on the consonants they al- ready won. This led to a compi- lation ridiculous self-invented but very creative words.\nThe idea of combining waiting and playing came up while doing nothing in my atelier. There was an urge to do something and play, but an endless feeling of “I don’t know what to doooooo”. This game eventually doesn’t give an answer and leaves one in doubt, but it’s there, I made it and it will definitely lead to something else. The title “I’m going to say it Walter” announces a possible answer and was also the sentence the candidates used when they thought they knew the answer.</p>"
+          "text": "<p><b>\n</b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>‘k Ga het zeggen, Walter\n</b></p><p><i><a href=\"sculpture.html\" class=\"text-black\">sculpture</a></i></p><p> (<a href=\"2017.html\" class=\"text-black\">2017</a>)</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">A little wheel that turns around the middle point of the waiting logo of Apple devices. The pins are set in a way that the flipper al- ways points out at two colors.&nbsp;</span><br></p><p><br></p><p>In Flanders we used to have a TV program, named “Rad van Fortuin”(”Wheel of Fortune”), where the candidates had to guess a word based on the consonants they already won. This led to a compi- lation ridiculous self-invented but very creative words.\nThe idea of combining waiting and playing came up while doing nothing in my atelier. There was an urge to do something and play, but an endless feeling of “I don’t know what to doooooo”. This game eventually doesn’t give an answer and leaves one in doubt, but it’s there, I made it and it will definitely lead to something else. The title “I’m going to say it Walter” announces a possible answer and was also the sentence the candidates used when they thought they knew the answer.</p>"
         },
         {
           "_styles": {
@@ -2216,161 +2222,6 @@
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/web-kgahetzeggenwalter-1400x2100.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        }
-      ]
-    },
-    "didnttheytellyou?.html": {
-      "settings": {
-        "title": "Didn't they tell you?",
-        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
-        "order": 8
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3k",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Didn't they tell you?</b></p><p><i><a href=\"sculpture.html\" class=\"text-black\">sculpture</a></i></p><p>(<a href=\"2017.html\" class=\"text-black\">2017</a>)</p><p><br></p><p>A mirror in the shape of a keyhole.\n</p><p><br></p><p>Voyeurism strikes back.</p><p><br></p>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-v",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CELINE AERNOUDT</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"works.html\">WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculum.html\">CURRICULUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-w",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Celine Aernoudt."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-6g",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/didnttheytellyou1-1400x2100.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -5727,7 +5578,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x42554.jpg",
+              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x4250.jpg",
               "link": "suddencracklinegestures.html",
               "alt": "",
               "title": "",
@@ -5785,7 +5636,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x41955.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x4191.jpg",
               "link": "roer-me-niet.html",
               "alt": "",
               "title": "",
@@ -5843,7 +5694,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x41956.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x4192.jpg",
               "link": "untitled.html",
               "alt": "",
               "title": "",
@@ -6018,7 +5869,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x41957.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4193.jpg",
               "link": "fullcarpetframework.html",
               "alt": "",
               "title": "",
@@ -6076,7 +5927,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x41958.jpg",
+              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4194.jpg",
               "link": "raviolifeestmetsterren.html",
               "alt": "",
               "title": "",
@@ -6134,7 +5985,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x42659.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x4265.jpg",
               "link": "3398.html",
               "alt": "",
               "title": "",
@@ -6192,7 +6043,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x41960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x4196.jpg",
               "link": "Framing of an inartificial green key.html",
               "alt": "",
               "title": "",
@@ -6250,7 +6101,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x41961.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x4197.jpg",
               "link": "vogelspotten.html",
               "alt": "",
               "title": "",
@@ -6421,7 +6272,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x41962.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x4198.jpg",
               "link": "didnttheytellyou?.html",
               "alt": "",
               "title": "",
@@ -6482,7 +6333,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x41963.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x4199.jpg",
               "link": "ZEEP#2.html",
               "alt": "",
               "title": "",
@@ -6540,7 +6391,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41964.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41910.jpg",
               "link": "ZEEP.html",
               "alt": "",
               "title": "",
@@ -6598,7 +6449,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41965.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41911.jpg",
               "link": "Aantrede.html",
               "alt": "",
               "title": "",
@@ -6656,7 +6507,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41966.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41912.jpg",
               "link": "plethorainmountainscene.html",
               "alt": "",
               "title": "",
@@ -6714,7 +6565,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41967.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41913.jpg",
               "link": "byebyeinfinito.html",
               "alt": "",
               "title": "",
@@ -6773,7 +6624,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41968.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41914.jpg",
               "link": "growsomeballs.html",
               "alt": "",
               "title": "",
@@ -6944,7 +6795,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41969.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41915.jpg",
               "link": "difficultbutallyours.html",
               "alt": "",
               "title": "",
@@ -7002,7 +6853,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41970.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41916.jpg",
               "link": "ypsilonely.html",
               "alt": "",
               "title": "",
@@ -7060,7 +6911,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41971.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41917.jpg",
               "link": "kgahetzeggenwalter.html",
               "alt": "",
               "title": "",
@@ -7234,7 +7085,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41966.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-plethorainmountainscene-1400x41912.jpg",
               "link": "plethorainmountainscene.html",
               "alt": "",
               "title": "",
@@ -7292,7 +7143,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x42659.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3398-1419x432-1400x4265.jpg",
               "link": "3398.html",
               "alt": "",
               "title": "",
@@ -7350,7 +7201,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x41956.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-untitled-1400x4192.jpg",
               "link": "untitled.html",
               "alt": "",
               "title": "",
@@ -7524,7 +7375,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41967.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41913.jpg",
               "link": "byebyeinfinito.html",
               "alt": "",
               "title": "",
@@ -7586,7 +7437,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x41957.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4193.jpg",
               "link": "fullcarpetframework.html",
               "alt": "",
               "title": "",
@@ -7644,7 +7495,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x41960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/framing-index-1181x354-1400x4196.jpg",
               "link": "Framing of an inartificial green key.html",
               "alt": "",
               "title": "",
@@ -7818,7 +7669,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41967.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bye-bye-infinito-1181x354-1400x41913.jpg",
               "link": "byebyeinfinito.html",
               "alt": "",
               "title": "",
@@ -7880,7 +7731,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x41957.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fcf-index-1181x354-1400x4193.jpg",
               "link": "fullcarpetframework.html",
               "alt": "",
               "title": "",
@@ -8054,7 +7905,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x41958.jpg",
+              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4194.jpg",
               "link": "raviolifeestmetsterren.html",
               "alt": "",
               "title": "",
@@ -8228,7 +8079,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41970.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-ypsilonely-1400x41916.jpg",
               "link": "ypsilonely.html",
               "alt": "",
               "title": "",
@@ -8286,7 +8137,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41971.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-kgahetzeggenwalter-1400x41917.jpg",
               "link": "kgahetzeggenwalter.html",
               "alt": "",
               "title": "",
@@ -8344,7 +8195,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x41962.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-didnttheytellyou-1400x4198.jpg",
               "link": "didnttheytellyou?.html",
               "alt": "",
               "title": "",
@@ -8402,7 +8253,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41965.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-aantrede-1400x41911.jpg",
               "link": "Aantrede.html",
               "alt": "",
               "title": "",
@@ -8461,7 +8312,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41968.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-index-1181x354-1400x41914.jpg",
               "link": "growsomeballs.html",
               "alt": "",
               "title": "",
@@ -8519,7 +8370,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x41955.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-roermeniet-1400x4191.jpg",
               "link": "roer-me-niet.html",
               "alt": "",
               "title": "",
@@ -8693,7 +8544,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x41961.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vogeltje-index-1181x354-1400x4197.jpg",
               "link": "vogelspotten.html",
               "alt": "",
               "title": "",
@@ -8867,7 +8718,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41969.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41915.jpg",
               "link": "difficultbutallyours.html",
               "alt": "",
               "title": "",
@@ -9041,7 +8892,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41969.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-difficultbutallyours-1400x41915.jpg",
               "link": "difficultbutallyours.html",
               "alt": "",
               "title": "",
@@ -9102,7 +8953,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x41963.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeeppart2-1400x4199.jpg",
               "link": "ZEEP#2.html",
               "alt": "",
               "title": "",
@@ -9160,7 +9011,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x41958.jpg",
+              "src": "@PROJECT_PATH@/assets/images/raviolifeest-index-1181x354-1400x4194.jpg",
               "link": "raviolifeestmetsterren.html",
               "alt": "",
               "title": "",
@@ -9334,7 +9185,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41964.jpg",
+              "src": "@PROJECT_PATH@/assets/images/index-zeep-1400x41910.jpg",
               "link": "ZEEP.html",
               "alt": "",
               "title": "",
@@ -9392,7 +9243,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x42554.jpg",
+              "src": "@PROJECT_PATH@/assets/images/compri-sclh-1-500x152-1400x4250.jpg",
               "link": "suddencracklinegestures.html",
               "alt": "",
               "title": "",
@@ -9413,6 +9264,161 @@
           "title": "<a href=\"suddencracklinegestures.html\" class=\"text-black\">Sudden Crack Line Gestures</a>",
           "text": "<i><a href=\"performance.html\" class=\"text-black\">performance</a></i><br><a href=\"2014.html\" class=\"text-black\">(2014)</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "didnttheytellyou.html": {
+      "settings": {
+        "title": "Didn't they tell you?",
+        "meta_descr": "copyright, Celine Aernoudt, Celine, Aernoudt",
+        "order": 8
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>Didn't they tell you?</b></p><p><i><a href=\"sculpture.html\" class=\"text-black\">sculpture</a></i></p><p>(<a href=\"2017.html\" class=\"text-black\">2017</a>)</p><p><br></p><p>A mirror in the shape of a keyhole.\n</p><p><br></p><p>Voyeurism strikes back.</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-v",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CELINE AERNOUDT</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"works.html\">WORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"curriculum.html\">CURRICULUM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-w",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Celine Aernoudt."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6g",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/didnttheytellyou1-1400x2100.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     }
